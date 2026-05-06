@@ -84,7 +84,7 @@ python3 'DarkRoot v01 Booming.py'
 
 🔐 Tool Password
 
-1255tamim@@
+DARK
 
 
 
